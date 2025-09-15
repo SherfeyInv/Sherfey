@@ -16,3 +16,15 @@ patch:
         patched: '2025-08-23T16:08:54.451Z'
         id: SNYK-JS-LODASH-567746
         path: gulp-eslint > eslint > table > lodash
+    - gulp-eslint > eslint > lodash:
+        patched: '2025-09-15T18:49:19.661Z'
+        id: SNYK-JS-LODASH-567746
+        path: gulp-eslint > eslint > lodash
+    - gulp-eslint > eslint > inquirer > lodash:
+        patched: '2025-09-15T18:49:19.661Z'
+        id: SNYK-JS-LODASH-567746
+        path: gulp-eslint > eslint > inquirer > lodash
+    - gulp-eslint > eslint > table > lodash:
+        patched: '2025-09-15T18:49:19.661Z'
+        id: SNYK-JS-LODASH-567746
+        path: gulp-eslint > eslint > table > lodash
