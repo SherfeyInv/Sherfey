@@ -37,7 +37,7 @@
     "@popperjs/core": "2.11.8",
     "bignumber.js": "9.1.1",
     "bootstrap": "^5.3.0",
-    "cheerio": "1.0.0-rc.12",
+    "cheerio": "1.1.2",
     "dompurify": "3.2.4",
     "echarts": "6.0.0",
     "flexsearch": "0.7.31",
